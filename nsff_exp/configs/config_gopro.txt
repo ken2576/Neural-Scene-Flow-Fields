@@ -1,7 +1,7 @@
 expname = gopro
 
 basedir = /sharedvol1/users/kalin/nsff_exps/logs
-datadir = /sharedvol1/users/kalin/nsff/gopro_data_2
+datadir = /sharedvol1/users/kalin/nsff/gopro_data_same_cam
 
 dataset_type = llff
 
@@ -34,4 +34,4 @@ w_prob_reg = 0.1
 
 target_idx = 5
 start_frame = 0
-end_frame = 10
+end_frame = 20
